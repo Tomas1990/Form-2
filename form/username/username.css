@@ -1,0 +1,14 @@
+.username {
+	margin: 20px 40px;
+	padding-left: 40px;
+	font-family: "HelveticaRegular";
+	font-size: 18px;
+	width: 240px;
+	height: 40px;
+	border-radius: 10px;
+	opacity: 0.5;
+	color: #ffffff; /* Так и не понял почему цвет не белый */
+	position: absolute;
+	text-shadow: 1px 1px 3px #2A6B39;
+	background-color: rgba(192, 205, 174, .4);
+}

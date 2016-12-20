@@ -1,0 +1,13 @@
+form {
+	width: 370px;
+	height: 310px;
+	top: 50%;
+    left: 50%;
+    position: absolute;
+    margin-top: -155px;
+    margin-left: -185px;
+    border: 1px solid #d8dfc7;
+    border-radius: 5px;
+    background-color: rgba(192, 205, 174, .6);
+    box-shadow: 0 0 1px black;
+}
